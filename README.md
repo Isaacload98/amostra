@@ -1,2 +1,0 @@
-# amostra
-site amostra
